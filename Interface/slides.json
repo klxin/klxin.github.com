@@ -1,10 +1,1 @@
-"[
-    {
-        'id': 0,
-        'image': 'https://klxin.github.io/images/WeChat/images/banner-01.png'
-    },
-    {
-        'id': 1,
-        'image': 'https://klxin.github.io/images/WeChat/images/banner-02.png'
-    }
-]"
+"[{'id': 0,'image': 'https://klxin.github.io/images/WeChat/images/banner-01.png'},{'id': 1,'image': 'https://klxin.github.io/images/WeChat/images/banner-02.png'}]"
